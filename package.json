@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "ts-node ./src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "D": "^1.0.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.15",
+    "web3": "^4.15.0"
+  }
+}
